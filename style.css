@@ -1027,6 +1027,17 @@ h4 {
         height: 320px;
     }
 }
+.citation {
+    font-size: 18px;
+    font-weight: 400;
+    font-style: italic;
+    color: #575757;
+}
+.citation-auteur {
+    font-size: 18px;
+    font-weight: 100;
+    color: #575757;
+}
 
 @media (max-width: 400px) {
     .bloc {
