@@ -1040,6 +1040,12 @@ h4 {
     color: #575757;
 }
 
+@font-face {
+    font-family: 'Arial';
+    src: local('Arial');
+    font-display: swap;
+}
+
 @media (max-width: 400px) {
     .bloc {
         padding-left: 0;
