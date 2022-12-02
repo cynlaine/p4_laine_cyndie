@@ -742,6 +742,7 @@ h4 {
 .portfolio-thumb {
     margin-bottom: 24px;
     width: 350px;
+    height: auto;
 }
 
 .portfolio-row {
@@ -1040,11 +1041,7 @@ h4 {
     color: #575757;
 }
 
-@font-face {
-    font-family: 'Arial';
-    src: local('Arial');
-    font-display: swap;
-}
+
 
 @media (max-width: 400px) {
     .bloc {
